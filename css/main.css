@@ -456,7 +456,7 @@ header .menu .menu_btn {
 .s4 .s4_box p {
     color: #fff;
     font-size: 4vw;
-    margin-top: 10px;
+    margin-top: 20px;
     white-space: nowrap;
     text-align: center;
     font-weight: 500;
@@ -467,13 +467,13 @@ header .menu .menu_btn {
 }
 .s4 .s4_box  div a {
     position: relative;
-    width: 122px;
-    height: 92px;
+    width: 100px;
+    height: 72px;
     display: block;
 }
 .s4 .s4_box  div  div {
-    width: 122px;
-    height: 92px;
+    width: 100px;
+    height: 72px;
     position: absolute;
     transition: all 0.5s;
 }
@@ -490,7 +490,7 @@ header .menu .menu_btn {
     opacity: 0;
 }
 .s4 .s4_box  .s4_right .s4_right_ani.active {
-    left:0;
+    left:3vw;
     opacity: 1;
 }
 .s5 {
@@ -516,8 +516,8 @@ header .menu .menu_btn {
     margin-bottom: 30px;
 }
 .s5 .s5_icon {
-    width: 72px;
-    height: 72px;
+    width: 50px;
+    height: 50px;
     margin: 0 auto;
 }
 .s6 {
