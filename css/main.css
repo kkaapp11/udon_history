@@ -676,7 +676,7 @@ footer .info ul {
     justify-content: space-around;
 }
 footer .info ul li {
-    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    /* border-right: 1px solid rgba(255, 255, 255, 0.1); */
 }
 footer .info ul li:last-child {
     border-right: none;
@@ -695,10 +695,11 @@ footer address {
     margin-top: 10px;
 }
 footer p {
-    font-size: 2.4vw;
+    font-size: 3vw;
     color: #888;
     margin-top: 2vh;
     text-align: center;
+    white-space: nowrap;
 }
 #fp-nav ul li:last-child {
     display: none;
